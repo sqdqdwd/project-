@@ -5,3 +5,4 @@ hi
 >>> print("welcome")
 welcome
 >>> x=5
+y=7
