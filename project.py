@@ -5,3 +5,7 @@ hi
 >>> print("welcome")
 welcome
 >>> x=5
+print("home")
+h=5
+hk=45
+print("noob")
